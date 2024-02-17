@@ -6,28 +6,28 @@ This project aims to scrape millions of data points related to Chinese herbal me
 
 ## Data Scraping
 
-The first step involves scraping data from the two websites mentioned above. This task is automated using web scraping techniques and tools, ensuring that the data is accurately extracted and stored for further analysis.
+| Step | Tool/Technique Used | Description |
+| --- | --- | --- |
+| 1 | Python | Programming language for automation |
+| 2 | Httpx Library | Library for sending HTTP requests |
+| 3 | Lxml Libary | Library for parsing HTML and XML documents |
 
-### Tools Used
-
-* Python
-* Lxml library
-* Httpx Library
-  
 ## Data Cleaning
 
-After scraping, the data goes through a rigorous cleaning process to remove any duplicates, outliers, or missing values. This step ensures that the data is accurate and ready for analysis.
+| Step | Tool/Technique Used | Description |
+| --- | --- | --- |
+| 1 | Python | Programming language for data manipulation |
+| 2 | Pandas | Library for data manipulation and analysis |
+| 3 | Data Validation | Checking for duplicates, outliers, or missing values |
 
 ## Data Analysis
 
-The cleaned data is then analyzed to identify patterns and trends in the pricing of Chinese herbal medicines. This analysis may include comparing prices over time, identifying popular herbs, and understanding any seasonal variations in pricing.
-
-### Tools Used
-
-* Python
-* Pandas
-* Matplotlib
-* Seaborn
+| Step | Tool/Technique Used | Description |
+| --- | --- | --- |
+| 1 | Python | Programming language for data analysis |
+| 2 | Pandas | Library for data manipulation and analysis |
+| 3 | Matplotlib | Library for creating static, animated, and interactive visualizations |
+| 4 | Seaborn | Library for creating statistical graphics |
 
 ## Results
 
@@ -48,8 +48,9 @@ Contributions are always welcome! Please feel free to fork this repository, make
 
 ## Contact
 
-For any questions or feedback, please reach out to [your contact information].
-
+| Contact Type | Information |
+| --- | --- |
+| Email | scarlettchips@outlook.com |
 ---
 
-**Note:** Make sure to replace `[your contact information]` with your actual contact details, such as an email address or GitHub username.
+**Note:** If you want to add more contact information, such as a GitHub username or a phone number, you can simply add another row to the Contact table.
